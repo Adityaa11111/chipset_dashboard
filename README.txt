@@ -22,7 +22,7 @@ File Naming Convention: Your file names should end with the year (e.g., chipsets
 Installation & Running the App
 1️⃣ Clone the Repository
 bash
-git clone https://github.com/Adityaa11111/chipset-comparison-dashboard.git
+git clone https://github.com/Adityaa11111/chipset_dashboard
 cd chipset-comparison-dashboard
 2️⃣ Install Dependencies
 bash
