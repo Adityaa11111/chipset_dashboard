@@ -22,25 +22,20 @@ File Naming Convention: Your file names should end with the year (e.g., chipsets
 Installation & Running the App
 1️⃣ Clone the Repository
 bash
-Copy
-Edit
 git clone https://github.com/Adityaa11111/chipset-comparison-dashboard.git
 cd chipset-comparison-dashboard
 2️⃣ Install Dependencies
 bash
-Copy
-Edit
 pip install -r requirements.txt
 3️⃣ Run the Streamlit App
 bash
-Copy
-Edit
-streamlit run app.py
+streamlit run ChipsetMultipleFinal.py
 
 Technologies Used
 Python 
 Pandas 
 Streamlit 
+
 License
 This project is licensed under the MIT License.
 
